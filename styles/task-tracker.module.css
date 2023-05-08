@@ -1,0 +1,15 @@
+.close {
+    border: 0;
+    outline: 0;
+    background-color: inherit;
+    color: red;
+    font-size: 25px;
+}
+
+.task {
+    background-color: rgb(226, 221, 221);
+}
+
+.border {
+    border-left: 5px solid green;
+}
